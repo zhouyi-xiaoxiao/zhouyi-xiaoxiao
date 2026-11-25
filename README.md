@@ -1,21 +1,22 @@
-I study when a random walker first reaches its target, and why some targets have two arrival peaks: walkers that find a shortcut arrive early, and the rest take the long way. This page is laid out the same way.
+I study when a random walker first reaches its target, and why, for some targets, the distribution of first-arrival times has two peaks: walkers that find a shortcut arrive early, and the rest take the long way. This page is laid out the same way.
 
 PhD researcher, University of Bristol: first-passage times of random walks, and the evaluation of AI agents.<br>
 R&D Scientist (AI), Yuexin International.
 
-<img src="arrivals.svg" width="640" alt="A histogram of arrival times with two peaks. Three red bars arrive early: the shortcut, three things to open first. Fifteen silver bars arrive later: the long way, everything else.">
+<img src="arrivals.svg" width="640" alt="A histogram of arrival times with two peaks. Four red bars arrive early: the shortcut, four things to open first. Seventeen silver bars arrive later: the long way, everything else.">
 
 **The shortcut**
 
-1. [Research atlas](https://zhouyi-xiaoxiao.github.io/valley-k-small/): reports and talks, in English and Chinese, on random walks with a shortcut, and on where a second arrival peak appears and when it disappears.
-2. [prescribed-reaction-time-modes](https://github.com/zhouyi-xiaoxiao/prescribed-reaction-time-modes): the reproduction archive (v1.3.0) for a paper on programming the number of reaction-time peaks with a fixed budget, with its code, Lean proofs and run records.
-3. [atlas-claude-tab](https://github.com/zhouyi-xiaoxiao/atlas-claude-tab): about 200 lines of Swift that make ⌘T in one AI browser open another AI, and a README on why every obvious approach failed first.
+1. [Fusion Equilibrium Challenge](https://fusion.zhouyixiaoxiao.com): solo entry to the NeurIPS 2026 Fusion Equilibrium Challenge; second place in the final ranking of Challenge 1; invited to give a 15-minute talk at the competition workshop in Atlanta on 12 Dec 2026. Open-source code (MIT licence): [fusion-equilibrium-challenge-2026](https://github.com/zhouyi-xiaoxiao/fusion-equilibrium-challenge-2026).
+2. [Inspect contributions](https://github.com/search?q=author%3Azhouyi-xiaoxiao+is%3Apr+is%3Amerged+org%3AUKGovernmentBEIS+org%3Ameridianlabs-ai&type=pullrequests): 14 pull requests merged across 7 repositories of Inspect, the UK AI Security Institute's open-source framework for evaluating AI, and the tools around it, as of 25 Nov 2026.
+3. [UKAIRS 2026 paper](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): first author, accepted as a poster. Poster at UKAIRS 2026 (the UK AI Research Symposium), Edinburgh, 25 Nov 2026: an exploratory test (48 runs) of whether coding agents can be instructed in pinyin alone, without Chinese characters.
+4. Physical Review E submission: single-author paper, submitted to Physical Review E, Jul 2026, on why the time a random walker takes to first reach a target can have a distribution with two peaks, and when the second peak disappears. [Reproduction archive](https://github.com/zhouyi-xiaoxiao/delayed-first-passage-peak): code and data for every figure.
 
 **The long way**
 
-*Research* · [master-dissertation](https://github.com/zhouyi-xiaoxiao/master-dissertation) · [delayed-first-passage-peak](https://github.com/zhouyi-xiaoxiao/delayed-first-passage-peak) · [indoor-epidemic-random-walk](https://github.com/zhouyi-xiaoxiao/indoor-epidemic-random-walk) · [pinn-diffusion-wave-laplace](https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace)
+*Research* · [Research atlas](https://zhouyi-xiaoxiao.github.io/valley-k-small/) (reports and talks, in English and Chinese, on random walks with a shortcut) · [First-passage times on lattices](https://github.com/zhouyi-xiaoxiao/master-dissertation) (developed from the MSc dissertation) · [Random-walk models of indoor epidemics](https://github.com/zhouyi-xiaoxiao/indoor-epidemic-random-walk) · [Physics-informed neural networks for diffusion, wave and Laplace problems](https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace) · [Reaction-time peaks with a fixed budget](https://github.com/zhouyi-xiaoxiao/prescribed-reaction-time-modes) (reproduction archive for a manuscript in preparation)
 
-*Tools* · [CatchMouse](https://github.com/zhouyi-xiaoxiao/CatchMouse) · [pro-agent-bridge](https://github.com/zhouyi-xiaoxiao/pro-agent-bridge) · [codex-skills-public-collection](https://github.com/zhouyi-xiaoxiao/codex-skills-public-collection)
+*Tools* · [CatchMouse](https://github.com/zhouyi-xiaoxiao/CatchMouse) (macOS: jump the cursor between displays) · [pro-agent-bridge](https://github.com/zhouyi-xiaoxiao/pro-agent-bridge) (lets ChatGPT work on a local repository and hand plans to a coding agent) · [codex-skills-public-collection](https://github.com/zhouyi-xiaoxiao/codex-skills-public-collection) (reusable skills for a coding agent) · [atlas-claude-tab](https://github.com/zhouyi-xiaoxiao/atlas-claude-tab) (macOS: makes ⌘T in the ChatGPT Atlas browser open Claude)
 
 *Prototypes* · [BioPath](https://zhouyi-xiaoxiao.github.io/biopath-platform/) · [London Cuts](https://london-cuts.vercel.app) · [SocialOS](https://github.com/zhouyi-xiaoxiao/openclaw-foundry-socialos)
 

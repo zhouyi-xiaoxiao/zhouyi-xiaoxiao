@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-labelledby="t d">
 <title id="t">First arrivals: a shortcut and the long way</title>
-<desc id="d">A histogram of arrival times with two peaks. Three red bars arrive early: the shortcut, three things to open first. Fifteen silver bars arrive later: the long way, everything else.</desc>
+<desc id="d">A histogram of arrival times with two peaks. Four red bars arrive early: the shortcut, four things to open first. Seventeen silver bars arrive later: the long way, everything else.</desc>
 <rect width="640" height="300" fill="#12100e"/>
 <text x="40" y="44" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="19" font-style="italic" fill="#a8a29a">first arrivals, so far</text>
 <rect x="66" y="82.4" width="20" height="143.6" fill="#e5482c"/>
@@ -9,26 +9,30 @@
 <text x="100.0" y="130.3" text-anchor="middle" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#12100e">2</text>
 <rect x="114" y="167.7" width="20" height="58.3" fill="#e5482c"/>
 <text x="124.0" y="186.7" text-anchor="middle" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#12100e">3</text>
-<rect x="236" y="212.1" width="16" height="13.9" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="258" y="202.2" width="16" height="23.8" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="280" y="192.6" width="16" height="33.4" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="302" y="175.4" width="16" height="50.6" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="324" y="162.3" width="16" height="63.7" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="346" y="144.0" width="16" height="82.0" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="368" y="141.0" width="16" height="85.0" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="390" y="133.1" width="16" height="92.9" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="412" y="138.4" width="16" height="87.6" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="434" y="143.2" width="16" height="82.8" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="456" y="162.9" width="16" height="63.1" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="478" y="175.4" width="16" height="50.6" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="500" y="192.3" width="16" height="33.7" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="522" y="202.4" width="16" height="23.6" fill="#b9b4ab" fill-opacity="0.78"/>
-<rect x="544" y="212.4" width="16" height="13.6" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="138" y="202.9" width="20" height="23.1" fill="#e5482c"/>
+<text x="148.0" y="221.9" text-anchor="middle" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#12100e">4</text>
+<rect x="230" y="213.6" width="16" height="12.4" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="250" y="206.2" width="16" height="19.8" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="270" y="197.1" width="16" height="28.9" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="290" y="183.7" width="16" height="42.3" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="310" y="171.4" width="16" height="54.6" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="330" y="155.8" width="16" height="70.2" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="350" y="146.9" width="16" height="79.1" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="370" y="136.0" width="16" height="90.0" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="390" y="135.1" width="16" height="90.9" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="410" y="136.3" width="16" height="89.7" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="430" y="145.8" width="16" height="80.2" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="450" y="156.5" width="16" height="69.5" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="470" y="171.1" width="16" height="54.9" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="490" y="184.3" width="16" height="41.7" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="510" y="197.0" width="16" height="29.0" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="530" y="206.6" width="16" height="19.4" fill="#b9b4ab" fill-opacity="0.78"/>
+<rect x="550" y="214.0" width="16" height="12.0" fill="#b9b4ab" fill-opacity="0.78"/>
 <polyline points="42,224.1 45,214.3 48,198.3 51,179.2 54,159.1 57,139.8 60,122.4 63,107.5 66,95.6 69,86.6 72,80.5 75,77.1 78,76.0 81,76.9 84,79.6 87,83.8 90,89.0 93,95.1 96,101.8 99,108.9 102,116.2 105,123.5 108,130.9 111,138.0 114,145.0 117,151.7 120,158.0 123,164.0 126,169.6 129,174.8 132,179.6 135,184.1 138,188.2 141,191.9 144,195.4 147,198.5 150,201.3 153,203.8 156,206.0 159,208.0 162,209.8 165,211.4 168,212.8 171,214.0 174,215.1 177,216.0 180,216.7 183,217.3 186,217.9 189,218.3 192,218.6 195,218.8 198,218.9 201,218.9 204,218.9 207,218.8 210,218.6 213,218.3 216,218.0 219,217.6 222,217.1 225,216.6 228,216.0 231,215.3 234,214.6 237,213.8 240,212.9 243,212.0 246,211.0 249,210.0 252,208.9 255,207.7 258,206.5 261,205.2 264,203.9 267,202.4 270,201.0 273,199.4 276,197.8 279,196.2 282,194.5 285,192.7 288,190.9 291,189.0 294,187.1 297,185.2 300,183.2 303,181.2 306,179.1 309,177.1 312,175.0 315,172.9 318,170.8 321,168.6 324,166.5 327,164.4 330,162.4 333,160.3 336,158.3 339,156.3 342,154.3 345,152.5 348,150.6 351,148.9 354,147.2 357,145.5 360,144.0 363,142.6 366,141.2 369,140.0 372,138.8 375,137.8 378,136.9 381,136.1 384,135.4 387,134.9 390,134.5 393,134.2 396,134.0 399,134.0 402,134.1 405,134.4 408,134.7 411,135.2 414,135.9 417,136.6 420,137.5 423,138.5 426,139.6 429,140.8 432,142.1 435,143.5 438,145.0 441,146.6 444,148.3 447,150.0 450,151.8 453,153.7 456,155.6 459,157.6 462,159.6 465,161.7 468,163.7 471,165.8 474,167.9 477,170.1 480,172.2 483,174.3 486,176.4 489,178.5 492,180.5 495,182.5 498,184.5 501,186.5 504,188.4 507,190.3 510,192.2 513,193.9 516,195.7 519,197.4 522,199.0 525,200.6 528,202.1 531,203.5 534,204.9 537,206.3 540,207.6 543,208.8 546,210.0 549,211.1 552,212.1 555,213.1 558,214.0 561,214.9 564,215.8 567,216.6 570,217.3 573,218.0 576,218.6 579,219.2 582,219.8 585,220.3 588,220.8 591,221.3 594,221.7 597,222.1 600,222.4" fill="none" stroke="#f2ede4" stroke-width="1.6" stroke-linejoin="round"/>
 <line x1="40" y1="226" x2="600" y2="226" stroke="#6f6a63" stroke-width="1"/>
 <text x="600" y="248" text-anchor="end" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="16" fill="#8d877f">time →</text>
 <text x="64" y="256" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="23" fill="#e5482c">the shortcut</text>
-<text x="64" y="281" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#c9c3b9">three to open first</text>
-<text x="236" y="256" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="23" fill="#d6d1c8">the long way</text>
-<text x="236" y="281" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#c9c3b9">everything else</text>
+<text x="64" y="281" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#c9c3b9">four to open first</text>
+<text x="230" y="256" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="23" fill="#d6d1c8">the long way</text>
+<text x="230" y="281" font-family="Georgia, &apos;Times New Roman&apos;, serif" font-size="18" fill="#c9c3b9">everything else</text>
 </svg>
